@@ -1,2 +1,2 @@
-# Aviation_Nepal_Static_WebPage
-# AviationNepal_Website – Static Flight Info &amp; Booking Page
+# AviationNepal_Website – Static Flight Info Page
+**Aviation Nepal** is a static front-end website designed using **HTML**, **CSS**, and **JavaScript**, focused on providing users with an overview of **international flights** and an option for **domestic flight booking**. It includes modern web design principles, responsive layout, and subtle **footer animations** to enhance user engagement. A placeholder link is used for the booking form redirect.
